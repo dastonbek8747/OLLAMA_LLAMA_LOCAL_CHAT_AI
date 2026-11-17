@@ -9,3 +9,17 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+# Environment
+.env.*
+!.env.example
+# IDE
+.idea/
+.vscode/
+# OS
+.DS_Store
